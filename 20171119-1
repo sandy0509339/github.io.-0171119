@@ -1,0 +1,31 @@
+ <html>
+<head>
+<title>出去玩吧</title>
+</head>
+<body>
+<center>
+<h1><font face="標楷體">日本北海道之旅</font></h1>
+
+<h2><font face="微軟正黑體>夏季的花與草</font></h2>
+
+<img src="12.jpg" height="300" width="300" title="女孩" alt= "女孩"/>
+
+<img src="4.jpg" height="300" width="300" title="稻田" alt= "稻田"/>
+<img src="5.jpg" height="300" width="300" title="麥田" alt= "麥田"/>
+<img src="http://www.fotor.com/images2/features/photo_effects/e_bw.jpg" height="300" width="300"> 
+<br>
+<img src="6.jpg" height="300" width="300" title="橋" alt= "橋"/>
+<img src="7.jpg" height="300" width="300" title="鄉村" alt= "鄉村"/>
+<img src="8.jpg" height="300" width="300" title="星空" alt= "星空"/>
+<br>
+<img src="9.jpg" height="300" width="300" title="海" alt="海"/>
+<img src="10.jpg" height="300" width="300" title="馬路" alt= "馬路"/>
+<img src="11.jpg" height="300" width="300" title="湖" alt= "湖"/>
+<br>
+<font face=細明體">
+不同於冬季一
+<i>彩虹花田</i>及<i>薰衣草花海是絕不能錯過的</i>
+</font>
+</center>
+</body>
+</html>
